@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[This browser is Open now]]>
+    </line>
+    <line>
+      <![CDATA[This browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[PostAlert page is open]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34196" started-at="2020-07-06T12:32:35 IST" finished-at="2020-07-06T12:33:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34196" started-at="2020-07-06T12:32:35 IST" finished-at="2020-07-06T12:33:10 IST">
+      <class name="com.postalert.PropertyAlertTest">
+        <test-method status="PASS" signature="Run()[pri:0, instance:com.postalert.PropertyAlertTest@1f554b06]" name="Run" duration-ms="34156" started-at="2020-07-06T12:32:35 IST" finished-at="2020-07-06T12:33:10 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[This browser is Open now]]>
+            </line>
+            <line>
+              <![CDATA[This browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[PostAlert page is open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Run -->
+      </class> <!-- com.postalert.PropertyAlertTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
